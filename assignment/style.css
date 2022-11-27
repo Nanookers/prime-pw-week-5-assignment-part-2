@@ -5,14 +5,23 @@ body{
     margin: 0%;
 }
 header{
-    background-color: rgb(56, 55, 55);
     margin: 0%;
     padding: 0%;
-    text-align: center;
-    color: rgb(242, 224, 198);
+    
 }
-
 main{
     background-color: rgb(187, 186, 186);
     padding: 1em;
 }
+
+.beige-text{
+    color: antiquewhite;
+    font-weight: lighter;
+    
+}
+.center-align{
+    background-color: rgb(49, 49, 49);
+    text-align: center
+
+}
+
